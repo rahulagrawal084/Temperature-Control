@@ -10,6 +10,9 @@ const increaseTemperature = () => {
   if (newTemperature >= 15) {
     setTemperatureColor("hot");
   }
+  if (newTemperature >= 28) {
+    alert("Hot Weather")
+  }
   setTemperatureValue(newTemperature);
 }
 
@@ -18,6 +21,9 @@ const decreaseTemperature = () => {
   const newTemperature = temperatureValue - 1;
   if (newTemperature < 15) {
     setTemperatureColor("cold");
+  }
+  if (newTemperature <= 5) {
+    alert("Cold Weather")
   }
   setTemperatureValue(newTemperature);
 }
