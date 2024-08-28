@@ -29,3 +29,8 @@ Open your web browser and go to http://localhost:3000 to interact with the Tempe
 
 **3.Control Temperature:**  
 Use the app’s interface to view current temperatures and adjust settings as needed.
+
+![Hot_Weather](https://github.com/user-attachments/assets/4375246d-86f2-42aa-9682-341204d96a16)
+![Cold_Weather](https://github.com/user-attachments/assets/155bf5ac-239f-446b-987c-7fc475d5320f)
+
+
